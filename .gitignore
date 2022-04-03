@@ -1,0 +1,4 @@
+/venv
+/aclImdb
+*.tar.gz
+*.csv
