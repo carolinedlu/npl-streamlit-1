@@ -48,11 +48,11 @@ nbclient==0.5.13
 nbconvert==6.4.5
 nbformat==5.2.0
 nest-asyncio==1.5.5
-nltk==
+nltk
 notebook==6.4.10
-numpy==
+numpy
 packaging==21.3
-pandas==
+pandas
 pandocfilters==1.5.0
 parso==0.8.3
 pexpect==4.8.0
